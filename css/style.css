@@ -3,7 +3,13 @@ a:hover{
     text-decoration: none;
     text-shadow: 2px 2px 5px  red;
 }
-
+body {
+    background: #E9ECEF;
+}
+.header-style {
+    background-color: rgb(56, 54, 54);
+     height: 50px;
+}
 .a-style {
     margin: 1%; 
     color: white;
