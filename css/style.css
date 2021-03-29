@@ -1,0 +1,36 @@
+a:hover{
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 5px  red;
+}
+
+.a-style {
+    margin: 1%; 
+    color: white;
+}
+
+.aa {
+    margin: 1%; 
+    font-size: 25px; 
+    color: rgb(226, 19, 19)
+}
+
+.product-style {
+    text-align: center;
+    font-size: 13px; 
+    color: white;
+    float:left;
+    background: grey;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    padding: 5px;
+}
+
+.about {
+    text-align: center;
+    color: blueviolet;
+    padding: 40px;
+    margin-top: 10px;
+}
